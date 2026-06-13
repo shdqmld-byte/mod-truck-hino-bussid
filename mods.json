@@ -1,1 +1,66 @@
-
+{
+  "version": 1,
+  "last_updated": "2026-06-13",
+  "mods": [
+    {
+      "id": 1,
+      "nama": "Hino 500 Dump Kalimantan",
+      "kategori": "Hino 500",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 dump muatan berat khas Kalimantan dengan full animasi dan strobo 48 titik.",
+      "ukuran_mb": 15,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.8,
+      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino500_dump_kalimantan.jpg",
+      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino500_dump_kalimantan.bussidmod"
+    },
+    {
+      "id": 2,
+      "nama": "Hino 500 Tronton Sumatra",
+      "kategori": "Hino 500",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 tronton gaya Sumatra, full strobo dan animasi suspensi halus.",
+      "ukuran_mb": 18,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino500_tronton_sumatra.jpg",
+      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino500_tronton_sumatra.bussidmod"
+    },
+    {
+      "id": 3,
+      "nama": "Hino 700 Profia Muatan Tank",
+      "kategori": "Hino 700",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 700 Profia dengan muatan tank militer, full strobo 48 titik dan animasi lengkap.",
+      "ukuran_mb": 28,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.9,
+      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino700_profia_tank.jpg",
+      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino700_profia_tank.bussidmod"
+    },
+    {
+      "id": 4,
+      "nama": "Hino 700 Tanpa Bak",
+      "kategori": "Hino 700",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 700 kosongan tanpa bak by MAH Channel, cocok untuk modifikasi custom.",
+      "ukuran_mb": 12,
+      "tipe_mod": "Standard",
+      "rating": 4.5,
+      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino700_tanpa_bak.jpg",
+      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino700_tanpa_bak.bussidmod"
+    },
+    {
+      "id": 5,
+      "nama": "Hino 500 Selfloader Buldozer",
+      "kategori": "Hino 500",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 selfloader pengangkut buldozer, muatan berat full animasi.",
+      "ukuran_mb": 22,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.8,
+      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino500_selfloader_buldozer.jpg",
+      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino500_selfloader_buldozer.bussidmod"
+    }
+  ]
+}
